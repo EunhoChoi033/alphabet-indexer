@@ -1,0 +1,1 @@
+A silly indexer that simply takes an input of a series of letters (NEITHER SPACES NOR NUMBERS NOR ANYTHING SILLY ALLOWED) and outputs the sequence they are in the standard English Alphabet. For example, "abcdz" will output [1, 2, 3, 4, 26].
